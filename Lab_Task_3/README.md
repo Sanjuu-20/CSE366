@@ -22,8 +22,9 @@ This project is a Python-based simulation that uses a Genetic Algorithm to optim
 ### Clone the repository:
 
 ```
-git clone https://github.com/your-username/class-schedule-visualization.git
-cd class-schedule-visualization
+git clone https://github.com/Sanjuu-20/CSE366-6-Fall2024-2022-1-60-205.git
+cd CSE366-6-Fall2024-2022-1-60-205
+cd Lab_Task_3
 ```
 ### Install dependencies:
 
@@ -33,7 +34,7 @@ pip install pygame numpy
 ### Run the program:
 
 ```
-python main.py
+python run.py
 ```
 ### The grid interface will display:
 
